@@ -8,8 +8,6 @@ Mood Detection via emojis or text sentiment input
 
 - 🍱 Personalized Meal Recommendations tailored to emotional states
 
-- 📚 Educational Tips on how food affects mood
-
 - 👤 User Authentication & Profiles
 
 - 🧠 Gemini API integration
